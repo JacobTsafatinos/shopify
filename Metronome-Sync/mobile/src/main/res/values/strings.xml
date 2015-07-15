@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Metronome Sync</string>
+    <string name="bpm_value">126</string>
+    <string name="bpm">bpm</string>
+    <string name="play_stop">Play / Stop</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tap_tempo">Tap Tempo!</string>
+
+</resources>
